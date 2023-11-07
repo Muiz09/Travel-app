@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.con-form-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px auto;
+}
+.con-form-login .login-input1 {
+  text-align: center;
+  height: 80vh;
+  width: 80vh;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.con-form-login .login-input1 h1 {
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 23px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.con-form-login .login-input1 p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-right: 250px;
+}
+.con-form-login .login-input1 .pass {
+  padding-top: 30px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-right: 200px;
+}
+.con-form-login .login-input1 button {
+  height: 60px;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  width: 325px;
+  background-color: #2E86DE;
+  cursor: pointer;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+}
+.con-form-login .login-input1 button:hover {
+  background-color: #fff;
+  border: 1px solid #000;
+  color: black;
+}
+.con-form-login .login-input1 .last-p {
+  color: #B1B1B1;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 100;
+  width: 100%;
+}
+.con-form-login .login-input1 .last-p span {
+  color: #B1B1B1;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+}/*# sourceMappingURL=formLogin.css.map */

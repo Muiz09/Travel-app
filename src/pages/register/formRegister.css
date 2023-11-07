@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.con-form-register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px auto;
+}
+.con-form-register .register-input {
+  text-align: center;
+  height: 95vh;
+  width: 80vh;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.con-form-register .register-input h1 {
+  text-align: center;
+  padding-bottom: 40px;
+  padding-top: 23px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.con-form-register .register-input p {
+  color: #000;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-right: 200px;
+}
+.con-form-register .register-input .error-message {
+  font-size: smaller;
+  color: red;
+}
+.con-form-register .register-input .em {
+  padding-top: 10px;
+  color: #000;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-right: 250px;
+}
+.con-form-register .register-input .pw {
+  color: #000;
+  padding-top: 5px;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  padding-right: 200px;
+}
+.con-form-register .register-input button {
+  height: 60px;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  width: 325px;
+  background-color: #2E86DE;
+  cursor: pointer;
+  color: #fff;
+  font-size: 30px;
+  font-weight: 700;
+}
+.con-form-register .register-input button:hover {
+  background-color: #fff;
+  border: 1px solid #000;
+  color: black;
+}/*# sourceMappingURL=formRegister.css.map */
